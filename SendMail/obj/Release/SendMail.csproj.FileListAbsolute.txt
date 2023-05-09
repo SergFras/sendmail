@@ -1,0 +1,11 @@
+C:\Users\Сергей\Desktop\SendMail\SendMail\bin\Release\SendMail.exe.config
+C:\Users\Сергей\Desktop\SendMail\SendMail\bin\Release\SendMail.exe
+C:\Users\Сергей\Desktop\SendMail\SendMail\bin\Release\SendMail.pdb
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.LogIn.resources
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.Properties.Resources.resources
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.SendMess.resources
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.exe
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.pdb
+C:\Users\Сергей\Desktop\SendMail\SendMail\obj\Release\SendMail.csprojAssemblyReference.cache
